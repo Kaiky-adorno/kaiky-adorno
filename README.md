@@ -7,7 +7,7 @@ Meu nome é Kaiky Adorno
 - Me interesso por criação de jogos
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📫
 
 00001086026792SP@al.educacao.sp.gov.br
 
