@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 👌
 
-Meu nome é Kaiky Adorno
+**Meu nome é Kaiky Adorno**
 
 - Estou fazendo aula na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
